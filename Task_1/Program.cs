@@ -31,8 +31,7 @@ static string ShowDigit(int firstDigit, int secondDigit)
 {
     string? numString = Console.ReadLine();
     int numInt = 0;
-    while ((!Int32.TryParse(numString, out numInt)) || !(numInt >= minValueSet) || !(numInt <= numberDigits)
-          )
+    while ((!Int32.TryParse(numString, out numInt)) || !(numInt >= minValueSet) || !(numInt <= numberDigits))
     {
         System.Console.WriteLine("Ошибка ввода, повторите");
         System.Console.Write(repeatString);
