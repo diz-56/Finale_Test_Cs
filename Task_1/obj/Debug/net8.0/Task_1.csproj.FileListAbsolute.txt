@@ -1,0 +1,14 @@
+/home/denis/Desktop/Finale_Test_Cs/Task_1/bin/Debug/net8.0/Task_1
+/home/denis/Desktop/Finale_Test_Cs/Task_1/bin/Debug/net8.0/Task_1.deps.json
+/home/denis/Desktop/Finale_Test_Cs/Task_1/bin/Debug/net8.0/Task_1.runtimeconfig.json
+/home/denis/Desktop/Finale_Test_Cs/Task_1/bin/Debug/net8.0/Task_1.dll
+/home/denis/Desktop/Finale_Test_Cs/Task_1/bin/Debug/net8.0/Task_1.pdb
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfoInputs.cache
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfo.cs
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.csproj.CoreCompileInputs.cache
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.dll
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/refint/Task_1.dll
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.pdb
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/Task_1.genruntimeconfig.cache
+/home/denis/Desktop/Finale_Test_Cs/Task_1/obj/Debug/net8.0/ref/Task_1.dll
